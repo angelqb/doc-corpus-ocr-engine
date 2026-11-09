@@ -1,3 +1,5 @@
+<img width="1720" height="1180" alt="示例1-原PDF与正文库搜索命中（真实国标）" src="https://github.com/user-attachments/assets/8b6fc600-af67-4760-88d6-6bcdd798480d" />
+<img width="1720" height="1180" alt="示例1-原PDF与正文库搜索结果对照" src="https://github.com/user-attachments/assets/9ed0a111-0f65-4f13-9b74-40664317cea0" />
 # 文档离线识别入库引擎（全平台）
 
 **一句话**：在自己电脑上把一批材料离线读成能用关键词搜索的正文库，材料不用上传任何网站。
