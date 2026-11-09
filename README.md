@@ -1,9 +1,7 @@
-<img width="1720" height="1180" alt="示例1-原PDF与正文库搜索命中（真实国标）" src="https://github.com/user-attachments/assets/8b6fc600-af67-4760-88d6-6bcdd798480d" />
-<img width="1720" height="1180" alt="示例1-原PDF与正文库搜索结果对照" src="https://github.com/user-attachments/assets/9ed0a111-0f65-4f13-9b74-40664317cea0" />
 # 文档离线识别入库引擎（全平台）
 
 **一句话**：在自己电脑上把一批材料离线读成能用关键词搜索的正文库，材料不用上传任何网站。
-
+<img width="1720" height="1180" alt="示例1-原PDF与正文库搜索结果对照" src="https://github.com/user-attachments/assets/9ed0a111-0f65-4f13-9b74-40664317cea0" />
 - 本仓库发布的是**全平台技能包 v1.1**（Windows / macOS / Linux，包内自带 7 个平台的离线解析组件），下载即完整可用。
 - 另有**精简版**，用于上传TeleAgengt平台（那边对上传包有体积限制）：流程与功能一致，只是包内不带解析组件，电子版解析质量略降。两者按同一份源码构建，可按需选用。
 - **v1.1 新增**：除正文库与审计表外，**再为每份 PDF 另出一份可编辑的 Word（.docx）** —— 见下文「输出产物」。
@@ -60,7 +58,8 @@
 3. **Word 版成品（.docx）**：每份 PDF 另出一份可编辑的 Word，与原件基本同一套版式 ——
    - **电子版 PDF**：按原件的**分页 / 表格 / 图片 / 段落层级**还原（可编辑、可检索）；
    - **扫描件 / 字体乱码件**：用本地识别出的文字重新排版（可改可搜），版式与原扫描件会有出入（扫描件先识文字再排版的固有限制）。
-
+<img width="1360" height="1140" alt="示例2-Word成品（真实国标）" src="https://github.com/user-attachments/assets/4ee08ee8-831b-42ec-9e09-7ce8c252ad09" />
+<img width="1720" height="1240" alt="示例3-扫描件识别后可搜索（真实国标）" src="https://github.com/user-attachments/assets/0aa3e2eb-ee49-4009-9f32-7dfba38363c7" />
 ## 核心优势
 
 - **材料不出网**：处理全程在本机完成，不上传任何文件（仅首次安装依赖需联网一次；本技能不含任何出网路径）；
